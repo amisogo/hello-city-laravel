@@ -1,10 +1,7 @@
 @extends('base')
 
-@section('title')
+@section('title', 'About Us | ' . config('app.name'))
 
-    About Us | Hello City
-
-@endsection
 
 @section('content')
 

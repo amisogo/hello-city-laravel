@@ -1,5 +1,11 @@
 @extends('base')
 
+@section('title')
+
+    About Us | Hello City
+
+@endsection
+
 @section('content')
 
 

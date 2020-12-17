@@ -5,6 +5,7 @@
 
 @section('content')
 
+            <img src="/images/logo.png" alt="logo ">
 
         <p> Built with &hearts; by AMINATA Sogodogo</p>
 
